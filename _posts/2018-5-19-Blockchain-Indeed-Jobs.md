@@ -7,6 +7,6 @@ Blockchain (or crypto in general) has been a rabbit hole for me since 2017, as a
 
 ![](/images/Nationwide.png?raw=true)
 
-![](/images/New York.png?raw=true)
+![](/images/NewYork.png?raw=true)
 
-![](/images/San Francisco.png?raw=true)
+![](/images/SanFrancisco.png?raw=true)
