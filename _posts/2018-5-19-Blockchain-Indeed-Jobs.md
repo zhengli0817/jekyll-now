@@ -15,6 +15,8 @@ After digging into some job descriptions, Java is mostly cited as one of mainstr
 
 > Strong proficiency in developing objected-oriented software, with deep experience in one or more relevant languages (Java, C, C++, C#)
 
+So, it's all right if you don't know Java!
+
 ![](/images/Nationwide.png?raw=true)
 
 ![](/images/NewYork.png?raw=true)
